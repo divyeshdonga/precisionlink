@@ -16,8 +16,8 @@ body {
     padding: 20px 0;
 }
 .logo-large {
-    max-width: 30%; /* Reduced size */
-    max-height: 30%;
+    max-width: 50%; /* Reduced size */
+    max-height: 50%;
 }
 .nav-links ul {
     list-style: none;
